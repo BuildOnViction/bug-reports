@@ -1,19 +1,19 @@
 ## TomoX Testnet Bounty Program
-
-TomoChain would like to call on the community to help identify issues in TomoX’s products to mạke our products safer and better.
-
 Our TomoX Testnet Bounty Program is an experimental and discretionary program that allows us to encourage and reward members of the TomoChain community for helping us find and address significant bugs and new features in accordance with the rules set out below.
 
 ### Rewards
-You can:
+Your mission:
 
-- Report bugs on our products.
-- Propose a new update or feature to make our products better
-and receive a total reward of 400 TOMO.
+- Report bugs.
+- Propose a new update or feature to make TomoX better
 
-After the issue is confirmed by TomoChain team: 200 TOMO
+*(collectively called “issue”)*
 
-After the confirmed issue is resolved by TomoChain team: extra 200 TOMO
+Earn a total reward of 400 TOMO based on the following criteria.
+
+After the issue is confirmed to warrant further action by the TomoChain team: 200 TOMO
+
+After the confirmed issue is resolved by the TomoChain team: extra 200 TOMO
 
 ### Guidelines
 A bug or new feature report must follow the process to be considered for reward:
@@ -79,3 +79,15 @@ If a potential reward winner cannot be reached by TomoChain within ten (10) work
 Rewards are made at the sole discretion of the TomoChain. 
 
 TomoChain’s core development team, employees and all other people paid by the TomoChain project, directly or indirectly, are not eligible for rewards.
+
+**For further information, please join our channels:**
+
+TomoX telegram Channel: https://t.me/TomoX
+
+If you have any inquiries or questions regarding to the TomoX Testnet Bounty Program, please contact us in the following ways:
+
+Email: chinhnguyen@tomochain.com
+
+Telegram: @Adrian9h
+
+Github: https://github.com/chinhnt23
