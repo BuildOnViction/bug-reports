@@ -48,7 +48,7 @@ TomoX:
 - Source code: https://github.com/tomochain/tomochain 
 
 ### Out of scope
-- TomoDEX, TomoRelayer on Mobile browser.
+- TomoDEX, TomoRelayer on Mobile browser. TomoDEX, TomoRelayer will not support mobile browser. On mobile, TomoDEX will support DApp broswer in TomoWallet.
 
 ### Testing Guidance
 Please read our Medium blog post to have a quick understanding of the TomoX products: https://medium.com/tomochain/say-hello-to-tomox-public-testnet-and-launch-your-own-permissionless-dex-in-minutes-6d735ce557ba
