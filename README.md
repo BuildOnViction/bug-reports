@@ -90,11 +90,3 @@ TomoChain’s core development team, employees and all other people paid by the 
 **For further information, please join our channels:**
 
 TomoX telegram Channel: https://t.me/TomoX
-
-If you have any inquiries or questions regarding to the TomoX Testnet Bounty Program, please contact us in the following ways:
-
-Email: chinhnguyen@tomochain.com
-
-Telegram: @Adrian9h
-
-Github: https://github.com/chinhnt23
