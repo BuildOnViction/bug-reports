@@ -2,18 +2,17 @@
 Our TomoX Testnet Bounty Program is an experimental and discretionary program that allows us to encourage and reward members of the TomoChain community for helping us find and address significant bugs and new features in accordance with the rules set out below.
 
 ### Rewards
-Your mission:
+Your mission: Report bugs.
 
-- Report bugs.
-- Propose a new update or feature to make TomoX better
+The bonus is based on the technical severity of the reported vulnerabilities, ranging from 50 TOMO to 1000 TOMO
 
-*(collectively called “issue”)*
+Our rewards are based on severity per CVSS (the Common Vulnerability Scoring Standard).
 
-Earn a total reward of 400 TOMO based on the following criteria.
+**Time estimation:**
+Review and Discussion: We will respond in 3 working days. The actual length of time from Response to Eligible Bug Confirmation depends on the complexity of the issue.
 
-After the issue is confirmed to warrant further action by the TomoChain team: 200 TOMO
-
-After the confirmed issue is resolved by the TomoChain team: extra 200 TOMO
+Issue Resolution: 10 working days
+Bounty Rewarded: On the first working day of the following month
 
 ### Guidelines
 A bug or new feature report must follow the process to be considered for reward:
