@@ -11,6 +11,7 @@ The bonus is based on the technical severity of the reported vulnerabilities, ra
 Our rewards are based on severity per CVSS (the Common Vulnerability Scoring Standard).
 
 **Time estimation:**
+
 Review and Discussion: We will respond in 3 working days. The actual length of time from Response to Eligible Bug Confirmation depends on the complexity of the issue.
 
 Issue Resolution: 10 working days
