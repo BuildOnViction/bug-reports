@@ -88,6 +88,6 @@ Rewards are made at the sole discretion of the TomoChain.
 
 TomoChain’s core development team, employees and all other people paid by the TomoChain project, directly or indirectly, are not eligible for rewards.
 
-**For further information, please join our channels:**
+**For further technical information, please join our channels:**
 
 TomoX telegram Channel: https://t.me/TomoX
