@@ -1,12 +1,20 @@
 ## TomoX Testnet Bounty Program
 Our TomoX Testnet Bounty Program is an experimental and discretionary program that allows us to encourage and reward members of the TomoChain community for helping us find and address significant bugs in accordance with the rules set out below.
 
+Any questions for bug report program, feel free to create an issue.
+
 ### Rewards
 Your mission: **Report bugs**.
 
 The bonus is based on the technical severity of the reported vulnerabilities, ranging from 50 TOMO to 1000 TOMO
 
-![TomoChain Bug Bounty](https://miro.medium.com/max/636/1*U_yMhIkS-zFd-dbJEhkOuQ.png)
+
+| **Severity**  | **Reward**  |
+|---------------|-------------|
+| Critical      | 1000        |
+| High          | 500         |
+| Medium        | 200         |
+| Low           | 50          |
 
 Our rewards are based on severity per CVSS (the Common Vulnerability Scoring Standard).
 
