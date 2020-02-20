@@ -3,6 +3,8 @@ Our TomoX Testnet Bounty Program is an experimental and discretionary program th
 
 Any questions for bug report program, feel free to create an issue.
 
+For the security issue, you can report it to our bug bounty program on WhiteHub platform: [https://whitehub.net/programs/tomochain](https://whitehub.net/programs/tomochain)
+
 ### Rewards
 Your mission: **Report bugs**.
 
