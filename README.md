@@ -14,12 +14,12 @@ Your mission: **Report bugs**.
 The bonus is based on the technical severity of the reported vulnerabilities, ranging from 50 TOMO to 1000 TOMO
 
 
-| **Severity**  | **Reward**  |
-|---------------|-------------|
-| Critical      | 1000        |
-| High          | 500         |
-| Medium        | 200         |
-| Low           | 50          |
+| **Severity**  | **Reward (TOMO)**  |
+|---------------|--------------------|
+| Critical      | 1000               |
+| High          | 500                |
+| Medium        | 200                |
+| Low           | 50                 |
 
 Our rewards are based on severity per CVSS (the Common Vulnerability Scoring Standard).
 
