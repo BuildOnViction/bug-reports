@@ -45,10 +45,6 @@ A bug or new feature report must follow the process to be considered for reward:
 - Multiple bugs caused by one underlying issue will be awarded one bounty.
 - Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with the explicit permission of the account holder.
 
-We will make the best effort to meet the following response targets:
-- Time to first response (from report submission): 2 business days.
-- Time to confirmation (from report submission to issue confirmation): 2 business days. 200 TOMO will be distributed within 1 business day following issue confirmation.
-- We will prioritize bug fixings and updates. An extra 200 TOMO will be sent within 1 business day after the confirmed issue is resolved.
 
 ### Scope
 TomoDEX:
