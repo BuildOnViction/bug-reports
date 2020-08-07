@@ -1,6 +1,6 @@
 ## TomoX Testnet Bounty Program
 
-Status: **Active**
+Status: **Closed**
 
 Our TomoX Testnet Bounty Program is an experimental and discretionary program that allows us to encourage and reward members of the TomoChain community for helping us find and address significant bugs in accordance with the rules set out below.
 
